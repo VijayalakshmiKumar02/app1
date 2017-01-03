@@ -2,7 +2,7 @@
 
 set -e -x
 
-git clone sample-app resource-app
+git clone app1 resource-app
 echo "creating file"
 cd resource-app
 echo "created the file"
