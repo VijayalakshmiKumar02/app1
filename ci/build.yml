@@ -8,7 +8,7 @@ image_resource:
     tag: latest
     
 inputs:
-  - name: sample-app
+  - name: app1
   
 outputs:
   - name: resource-app
